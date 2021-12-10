@@ -4,7 +4,7 @@ Ce projet est une exploration du dataset StarCraft 2, un jeu PVP de stratégie c
 
 # Ce repository contient :
 
-- Notebook 
+- Notebook (Data-visualisation & modèles) 
 - Dataset
 - Présentation PPT 
 - API (model.joblib & api.py)
