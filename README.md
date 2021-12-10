@@ -7,7 +7,7 @@ Ce projet est une exploration du dataset StarCraft 2, un jeu PVP de stratégie c
 - Notebook 
 - Dataset
 - Présentation PPT 
-- API
+- API (model.joblib & api.py)
 
 # Librairies nécessaires 
 
